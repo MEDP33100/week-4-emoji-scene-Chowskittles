@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    overflow: hidden;
+}
+
+span {
+    font-size: 50px;
+    display: inline-block;
+    position: absolute;
+}
+
+.moon {
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* it was a dark and stormy night... */
+.cloud1 {
+    top: 80px;
+    left: 30%;
+}
+
+.cloud2 {
+    top: 85px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.cloud3 {
+    top: 90px;
+    left: 70%;
+}
+
+.bat1 {
+    top: 500px;
+    left: 25%;
+}
+
+.bat2 {
+    top: 260px;
+    left: 85%;
+}
+
+.ghost {
+    top: 650px;
+    left: 55%;
+    transform: translateX(-50%);
+}
+
+.castle {
+    bottom: 50px;
+    left: 40%;
+}
+
+.vampire {
+    bottom: 50px;
+    left: 50%;
+}
+
+.blood {
+    bottom: 50px;
+    left: 55%;
+}
+
+.scared {
+    bottom: 50px;
+    left: 60%;
+}
+
+.witch {
+    bottom: 50px;
+    left: 75%;
+}
+
+.broom {
+    bottom: 50px;
+    left: 80%;
+}
